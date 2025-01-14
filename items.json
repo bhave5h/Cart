@@ -1,0 +1,33 @@
+[
+    {
+        "srno": 1,
+        "item": "Sony Speaker",
+        "price": 10000
+    },
+    {
+        "srno": 2,
+        "item": "Realme Earbuds",
+        "price": 3000
+    },
+    {
+        "srno": 3,
+        "item": "SSD 1TB",
+        "price": 5000
+    },
+    {
+        "srno": 4,
+        "item": "Smart Watch",
+        "price": 2000
+    },
+    {
+        "srno": 5,
+        "item": "OLED TV",
+        "price": 50000
+    },
+    {
+        "srno": 6,
+        "item": "LED TV",
+        "price": 30000
+    }
+]
+
